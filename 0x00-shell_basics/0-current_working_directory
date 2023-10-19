@@ -1,2 +1,2 @@
 #!/bin/bash
-tmp
+$ wc -l file
